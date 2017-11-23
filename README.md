@@ -6,8 +6,8 @@ iOS 自动打包工具
 如果不需要蒲公英，就不需要配置蒲公英信息
 
 > LEPgyerApiKey 可在Info.plist中配置蒲公英apiKey
-LEPgyerUKey 可在Info.plist中配置蒲公英ukey
-LEPgyerPassword 可在Info.plist中配置蒲公英password
+> LEPgyerUKey 可在Info.plist中配置蒲公英ukey
+> LEPgyerPassword 可在Info.plist中配置蒲公英password
 
 在`DevelopmentExportOptionsPlist.plist`中配置打包所使用的输出方式，目前支持`app-store`, `package`, `ad-hoc`, `enterprise`, `development`, 和`developer-id`
 ###注意事项
